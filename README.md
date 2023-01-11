@@ -1,18 +1,3 @@
-## Getting Started
+## Exercício: Representando o mundo
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Sabemos que existe uma plataforma muito famosa ([respondeAí](https://www.respondeai.com.br/)), que busca ajudar as pessoas estudantes que estão com dificuldade em algumas matérias. Pensando em algo que possa representar essa plataforma, escreva pelo menos 2 classes com propriedades e métodos que possa representar o modelo da plataforma! Atenção, use da melhor maneira a composição, encapsulamento e as boas práticas que aprendeu em aula.
